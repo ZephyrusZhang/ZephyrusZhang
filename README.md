@@ -1,20 +1,19 @@
-<center><h3>
-    Hi there 👋   <img src="https://camo.githubusercontent.com/d5d230c9430fb5a59816746dca3536072a4699cfe16941b44a0eff9cc273c6be/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32383032303030336434613439336337386438323032626136633335663137395f622e77656270" style="zoom:7%;" />
-    </h3></center>
+<center><h3>Hi there 👋</h3></center>
+
 
 Here are some ideas to get you started:
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZephyrusZhang"></img>](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=ZephyrusZhang"></img>](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+
+[<img align="right" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=ZephyrusZhang&show_icons=true&locale=en&layout=compact"></img>](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
-[<img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=ZephyrusZhang&show_icons=true&locale=en&layout=compact"></img>](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
