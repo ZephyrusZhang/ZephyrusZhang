@@ -1,19 +1,12 @@
-<center><h3>Hi there 👋</h3></center>
-
-![Visitor Count](https://profile-counter.glitch.me/ZephyrusZhang/count.svg)
-
----
+<p align="center">
+<h2>Hi there 👋</h2>
+<img src="https://profile-counter.glitch.me/ZephyrusZhang/count.svg"/>
+</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **web page development**
+- 📫 How to reach me: **dv2996362441@hotmail.com**
 
 ---
 
@@ -72,6 +65,5 @@ Here are some ideas to get you started:
     <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZephyrusZhang&show_icons=true&locale=en&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
 </p>
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZephyrusZhang&theme=redical)](https://github.com/ZephyrusZhang)
 
