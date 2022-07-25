@@ -1,7 +1,8 @@
-<p align="center">
-<h2>Hi there 👋</h2>
-<img src="https://profile-counter.glitch.me/ZephyrusZhang/count.svg"/>
-</p>
+<div align="center">
+	<h2>Hi there 👋</h2>
+	<img width=40% src="https://profile-counter.glitch.me/ZephyrusZhang/count.svg"/>
+    <font size=9>Visitors</font>
+</div>
 
 Here are some ideas to get you started:
 
