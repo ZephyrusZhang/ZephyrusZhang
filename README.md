@@ -66,5 +66,4 @@ Here are some ideas to get you started:
     <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZephyrusZhang&show_icons=true&locale=en&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
 </p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZephyrusZhang&theme=redical)](https://github.com/ZephyrusZhang)
-
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZephyrusZhang&theme=redical)
