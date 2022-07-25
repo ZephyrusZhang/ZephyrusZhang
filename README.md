@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Github Statistics
+## Github Statistics
 
 <p align="center">
   <a href="https://github.com/ZephyrusZhang">
