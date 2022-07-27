@@ -1,8 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    - main
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
