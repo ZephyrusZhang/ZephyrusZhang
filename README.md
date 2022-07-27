@@ -74,4 +74,79 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 159 Contributions in the Year 2022
+ > 
+> 📦 293.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+🌆 Daytime    95 commits     ██████████░░░░░░░░░░░░░░░   40.25% 
+🌃 Evening    87 commits     █████████░░░░░░░░░░░░░░░░   36.86% 
+🌙 Night      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Thursday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Friday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Saturday     44 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+Sunday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ████████████████░░░░░░░░░   66.67% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+VHDL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ZephyrusZhang/ZephyrusZhang/main/charts/bar_graph.png) 
+
+
+ Last Updated on 27/07/2022 02:24:51 UTC
 <!--END_SECTION:waka-->
