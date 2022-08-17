@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 162 Contributions in the Year 2022
  > 
-> 📦 293.2 kB Used in GitHub's Storage 
+> 📦 295.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,5 +148,5 @@ Stylus                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ZephyrusZhang/ZephyrusZhang/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2022 07:45:50 UTC
+ Last Updated on 17/08/2022 18:49:46 UTC
 <!--END_SECTION:waka-->
