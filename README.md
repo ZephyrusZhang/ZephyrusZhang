@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -119,16 +119,20 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ████████████████░░░░░░░░░   65.66% 
+Java                     4 mins              ████████░░░░░░░░░░░░░░░░░   34.33% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  8 mins              ████████████████░░░░░░░░░   65.66% 
+IntelliJ                 4 mins              ████████░░░░░░░░░░░░░░░░░   34.34%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yolov5                   8 mins              ████████████████░░░░░░░░░   65.66% 
+zephyrus-forum           4 mins              ████████░░░░░░░░░░░░░░░░░   34.34%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -148,5 +152,5 @@ Stylus                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ZephyrusZhang/ZephyrusZhang/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 18:49:17 UTC
+ Last Updated on 27/08/2022 18:48:21 UTC
 <!--END_SECTION:waka-->
