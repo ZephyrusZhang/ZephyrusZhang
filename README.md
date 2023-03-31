@@ -66,11 +66,7 @@ Here are some ideas to get you started:
     <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZephyrusZhang&show_icons=true&locale=en&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ZephyrusZhang">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ZephyrusZhang&theme=redical"/>
-  </a>
-</p>
+
 
 
 <!--START_SECTION:waka-->
@@ -101,11 +97,11 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ZephyrusZhang/ZephyrusZhang/main/charts/bar_graph.png) 
-
-
  Last Updated on 09/11/2022 18:49:01 UTC
 <!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephyruszhang/zephyruszhang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zephyruszhang/zephyruszhang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zephyruszhang/zephyruszhang/output/github-contribution-grid-snake.svg">
+</picture>
