@@ -67,39 +67,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2057%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 231 Contributions in the Year 2022
- > 
-> 📦 528.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-VHDL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
- Last Updated on 09/11/2022 18:49:01 UTC
-<!--END_SECTION:waka-->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephyruszhang/zephyruszhang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zephyruszhang/zephyruszhang/output/github-contribution-grid-snake.svg">
