@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **web page development**
-- 📫 How to reach me: **dv2996362441@hotmail.com**
+- 📫 How to reach me: **zephyrus.zwc@gmail.com**
 
 ---
 
